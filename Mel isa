@@ -1,0 +1,6 @@
+Crud es crear,leer,actualizar y borrar.
+Se utiliza para describir operaciones basicas que pueden realizarse en la mayoría de bases de datos.
+Con el tiempo, el concepto de CRUD se ha convertido en una práctica común en el diseño y desarrollo de aplicaciones de software,
+especialmente en aquellas que utilizan bases de datos relacionales como MySQL, Oracle, PostgreSQL, entre otras.
+Algunos ejemplos son: aplicaciones de gestión de contenido,de comercio electrónico,sistemas de reservas,aplicaciones de
+redes sociales,de gestión de proyectos,etc.
